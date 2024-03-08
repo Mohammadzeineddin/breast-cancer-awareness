@@ -1,0 +1,30 @@
+body{
+    background: #FDE9F0;
+    font-size: 4rem;
+  }
+  
+  .card{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-family: "Proxima Nova";
+    text-align: center;
+    padding: 3rem;
+    width: 200px;
+    margin: 50px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+  
+  .card p{
+    line-height: 1;
+    margin: 0;
+  }
+  
+  .card .fa-heart{
+    color: hotpink;
+  }
+  
+  .card .fa-bolt{
+    color: gold;
+  }

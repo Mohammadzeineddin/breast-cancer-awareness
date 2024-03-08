@@ -265,3 +265,16 @@
   }
 }
 /* footer css ends here  */
+@media screen and (max-width:600px){
+  .head{
+    font-size: 1.4rem;
+  }
+  .hero-figure{
+    background: url("../media/pexels-photo-579474.jpeg") fixed;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+    color: #F7567C ;
+
+}
+}
