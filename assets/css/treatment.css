@@ -253,3 +253,26 @@ tbody{
   }
 }
 /* footer css ends here  */
+.types{
+  display: inline-flex;
+  margin: 1px 285px;
+}
+.head{
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+}
+.card1{
+  background: #fff;
+  color: #333;
+  font-weight: 100;
+  font-size: 1.3rem;
+  font-family: "Proxima Nova sans-serif";
+  text-align: center;
+  width: 400px;
+  height: 100px;
+  margin-left: 100px;
+  border-radius: 2rem;
+  box-shadow: 0 8px 96px pink;
+  height: 500px;
+}
