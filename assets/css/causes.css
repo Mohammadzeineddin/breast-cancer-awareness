@@ -1,30 +1,185 @@
 body{
     background: #FDE9F0;
-    font-size: 4rem;
+    font-size: 1rem;
   }
-  
-  .card{
+  .causes{
+    display: inline-flex;
+    margin: 1px 285px;
+  }
+  .preventions{
+    display: inline-flex;
+    margin: 1px 350px ;
+  }
+  .preventions2{
+    display: inline-flex;
+    margin: 1px 350px ;
+  }
+  .h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card1{
     background: #fff;
     color: #333;
     font-weight: 100;
+    font-size: 2rem;
     font-family: "Proxima Nova";
     text-align: center;
-    padding: 3rem;
-    width: 200px;
-    margin: 50px;
+    width: 400px;
+    margin:40px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+    height: 600px;
+  }
+  .card2{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.822rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 400px;
+    height: 600px;
+    margin: 40px;
     border-radius: 2rem;
     box-shadow: 0 8px 96px pink;
   }
+  .card3{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.7rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+  .card4{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.7rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+  .card5{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.6rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+  .card6{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 2rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+  .card7{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.7rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+  .card8{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.1rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+  .card9{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.122rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+  .card10{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.122rem;
+    font-family: "Proxima Nova";
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 2rem;
+    box-shadow: 0 8px 96px pink;
+  }
+
   
-  .card p{
-    line-height: 1;
-    margin: 0;
+  .card1 p{
+    line-height: 1.2;
   }
   
-  .card .fa-heart{
-    color: hotpink;
+  .card2 p{
+    line-height: 1.2;
   }
   
-  .card .fa-bolt{
-    color: gold;
-  } 
+  .card3 p{
+    line-height: 1.2;
+  }
+  .card4 p{
+    line-height: 1.2;
+  }
+  .card5 p{
+    line-height: 1.2;
+  }
+  .card6 p{
+    line-height: 1.2;
+  }
+  .card7 p{
+    line-height: 1.2;
+  }
+  .card8 p{
+    line-height: 1.2;
+  }
+  .card9 p{
+    line-height: 1.2;
+  }
+  .card10 p{
+    line-height: 1.2;
+  }
