@@ -276,3 +276,28 @@ tbody{
   box-shadow: 0 8px 96px pink;
   height: 500px;
 }
+@media screen and (max-width:400px){
+  .head{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+  }
+  .types{
+    display: inline-block;
+    width: 60%;
+    margin: 0 auto;
+  }
+  .card1{
+    background: #fff;
+    color: #333;
+    font-weight: 100;
+    font-size: 1.1rem;
+    font-family: "Proxima Nova sans-serif";
+    text-align: center;
+    width: 350px;
+    border-radius: 2rem;
+    margin:0 auto;
+    box-shadow: 0 8px 96px pink;
+    height: 480px;
+  }
+}
