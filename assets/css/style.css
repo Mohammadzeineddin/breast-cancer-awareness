@@ -265,15 +265,15 @@
   }
 }
 /* footer css ends here  */
-<<<<<<< HEAD
+
 @media screen and (max-width:600px){
   .head{
     font-size: 1.4rem;
-=======
+  }
+}
 @media screen and (max-width:400px){
   .head{
     font-size: 1.3rem;
->>>>>>> 9425d3daeaadb3b7101c4585dd4def6a12d1fd6e
   }
   .hero-figure{
     background: url("../media/pexels-photo-579474.jpeg") fixed;
@@ -283,8 +283,4 @@
     color: #F7567C ;
 
 }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9425d3daeaadb3b7101c4585dd4def6a12d1fd6e

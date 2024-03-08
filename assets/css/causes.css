@@ -183,3 +183,6 @@ body{
   .card10 p{
     line-height: 1.2;
   }
+.sr-only:active{
+  color: white;
+}
