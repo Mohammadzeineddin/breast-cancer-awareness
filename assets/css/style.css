@@ -265,7 +265,7 @@
   }
 }
 /* footer css ends here  */
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
   .head{
     font-size: 1rem;
   }
