@@ -267,7 +267,7 @@
 /* footer css ends here  */
 @media screen and (max-width:400px){
   .head{
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
   .hero-figure{
     background: url("../media/pexels-photo-579474.jpeg") fixed;
